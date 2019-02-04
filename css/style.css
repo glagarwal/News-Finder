@@ -1,0 +1,23 @@
+.page-heading {
+    text-align: left;
+    padding: 15px;
+    background-color: #2870B8;
+    color: white;
+}
+
+.nf-container {
+    padding: 30px;
+    margin-top: 20px;
+    max-width: 40vw;
+    border: solid grey 1px;
+    border-radius: 5px;
+}
+
+.requiredAstrix{
+    color: red;
+}
+
+.imgIcon{
+    width: 40px;
+    height: auto;
+}

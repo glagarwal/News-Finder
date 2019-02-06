@@ -1,0 +1,58 @@
+/* 
+ * external css file for the News finder - index page
+ * @author Gaurav Agarwal
+ * @date Feb 3, 2019
+ */
+ 
+.page-heading {
+    text-align: left;
+    padding: 15px;
+    background-color: #2870B8;
+    color: white;
+}
+
+.nf-container {
+    padding: 30px;
+    margin-top: 20px;
+    max-width: 80vw;
+    border: solid grey 1px;
+    border-radius: 5px;
+}
+
+@media screen and (min-width: 720px) {
+    .nf-container{
+        max-width: 40vw;
+    }
+}
+
+.requiredAstrix{
+    color: red;
+}
+
+.imgIcon{
+    width: 40px;
+    height: auto;
+}
+
+.nf-article{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.nf-small-img{
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+}
+
+.nf-publish-date{
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 13px;
+    color: grey;
+}
+

@@ -30,7 +30,7 @@
     <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
-            <version>2.2.1.GA</version>
+            <version>3.0.20.Final</version>
         </dependency>
         <dependency>
             <groupId>org.json</groupId>
@@ -77,7 +77,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
-            <version>2.3.2.Final</version>
+            <version>3.0.20.Final</version>
         </dependency>
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
